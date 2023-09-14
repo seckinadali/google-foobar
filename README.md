@@ -1,3 +1,3 @@
 ## Google Foobar Challenge
 
-These are my solutions to Google's Foobar challenge. More solutions will be added as I work my way through the problems.
+These are my solutions to Google's Foobar challenge. I am still working on new steps of the challenge occasionally, and I will add more solutions if/when I can solve more problems.
